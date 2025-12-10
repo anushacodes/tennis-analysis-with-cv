@@ -1,5 +1,5 @@
-# train: ../images/train/images
-train: ../subset/images
+train: ../images/train/images
+# train: ../subset/images
 val: ../images/valid/images
 test: ../images/test/images
 
