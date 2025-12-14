@@ -38,4 +38,4 @@ pip install -r requirements.txt
 
 ### to run inference:
 
-python court/final_inference.py --video_path dataset/videos/9.mp4 --tracknet_model weights/tracknet.pt --yolo_model weights/best.pt --output_path output.mp4 --ball_smoothing 0.5 --trace_length 7
+python court/final_inference.py --video_path dataset/videos/8.mp4 --tracknet_model weights/tracknet.pt --yolo_model weights/best.pt --output_path output8.mp4 --ball_smoothing 0.5 --trace_length 7
